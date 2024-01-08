@@ -7,8 +7,8 @@
 
 ## Habilidades
 - 🌐 Inglês (Nativo) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
-- 💻 Linguagens de Programação: HTML, CSS, JavaScript, Java, Python.
-- 🛠️ Frameworks: Springboot, React, Next, Styled Components.
+- 💻 Linguagens de Programação: Java, C#, Python, MySQL, HTML, CSS, JavaScript.
+- 🛠️ Frameworks: Springboot, .NET, Flask, Django, React, Next, Styled Components.
 - 🔄 Metodologias Ágeis: Scrum e Kanban.
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
