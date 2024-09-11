@@ -12,7 +12,7 @@
 - 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
 
 ## Contato
-- 📧 Email: pedrosilva.csdev@protonmail.com / pedrolucassantos5280@gmail.com
+- 📧 Email: pedrolucassantos5280@gmail.com / pedrosilva.csdev@protonmail.com
 
 <div display="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
