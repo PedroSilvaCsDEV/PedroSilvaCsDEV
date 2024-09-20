@@ -2,14 +2,12 @@
 
 ## Sobre Mim
 - 🌱 Atualmente cursando Ciência da Computação (2023-2026).
-- 🔭 Atualmente em busca de oportunidades de estágio.
+- 🔭 Em busca de oportunidades de estágio.
 
 ## Habilidades
-- 🌐 Inglês (Nativo) - Proficiente para leitura, escrita e comunicação em ambientes de trabalho.
-- 💻 Linguagens de Programação: Java, C#, Python, MySQL, HTML, CSS, JavaScript.
-- 🛠️ Frameworks: Springboot, .NET, Flask, Django, Angular, Ionic.
-- 🔄 Metodologias Ágeis: Scrum e Kanban.
-- 🧹 Clean Code - Comprometido com boas práticas de codificação e manutenção de código limpo.
+- 💻 Linguagens de Programação: Java, C#, Python, Javascript, Typescript.
+- 🛠️ Frameworks: Springboot, Angular, Ionic.
+- 🌐 Inglês (Fluente)
 
 ## Contato
 - 📧 Email: pedrolucassantos5280@gmail.com / pedrosilva.csdev@protonmail.com
