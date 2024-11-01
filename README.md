@@ -6,7 +6,7 @@
 
 ## Habilidades
 - 💻 Linguagens de Programação: Java, C#, Python, Javascript, Typescript.
-- 🛠️ Frameworks: Springboot, Angular, Ionic.
+- 🛠️ Frameworks: Springboot, Angular, React, Ionic.
 - 🌐 Inglês (Fluente)
 
 ## Contato
@@ -31,5 +31,6 @@
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Pedro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Pedro-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"/>
 </div>
